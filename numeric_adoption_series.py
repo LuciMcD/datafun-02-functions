@@ -12,6 +12,8 @@ Adoption adds:
 
 - a location attribute
 
+All the folowing data was made up
+
 '''
 
 # From the name of the module (the file name without .py), import the class we want to inherit from
