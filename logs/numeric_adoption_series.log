@@ -1,0 +1,28 @@
+2023-08-31 21:39:29,842.numeric_adoption_series.INFO ==================================================
+2023-08-31 21:39:29,842.numeric_adoption_series.INFO Today is 2023-08-31 at 09:39 PM
+2023-08-31 21:39:29,842.numeric_adoption_series.INFO Running on: nt Windows 10
+2023-08-31 21:39:29,842.numeric_adoption_series.INFO Python version:  3.11.4
+2023-08-31 21:39:29,842.numeric_adoption_series.INFO Python path: C:\Users\lucim\AppData\Local\Programs\Python\Python311
+2023-08-31 21:39:29,842.numeric_adoption_series.INFO Working dir: C:\Users\lucim\Data Fundamentals Repo\datafun-02-functions
+2023-08-31 21:39:29,842.numeric_adoption_series.INFO ==================================================
+2023-08-31 21:39:29,842.numeric_adoption_series.INFO Created: NumericAdoptionSeries with name=2021 Adoptions, units=individuals, location=Missouri, and 6 data points: [150, 200, 312, 325, 25, 200]
+2023-08-31 21:39:29,842.numeric_adoption_series.INFO Created: NumericAdoptionSeries with name=2022 Adoptions, units=individuals, location=Missouri, and 6 data points: [75, 100, 215, 300, 190, 99]
+2023-08-31 21:39:29,842.numeric_adoption_series.INFO Created: NumericAdoptionSeries with name=2020 Adoptions, units=individuals, location=Missouri, and 25 data points: [100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124]
+2023-08-31 21:39:29,842.numeric_adoption_series.INFO NumericAdoptionSeries with name=2021 Adoptions, units=individuals, location=Missouri, and 6 data points: [150, 200, 312, 325, 25, 200]
+2023-08-31 21:39:29,842.numeric_adoption_series.INFO Count: 6
+2023-08-31 21:39:29,842.numeric_adoption_series.INFO Sum: 1212
+2023-08-31 21:39:29,842.numeric_adoption_series.INFO Mean: 202.0
+2023-08-31 21:39:29,842.numeric_adoption_series.INFO Median: 200.0
+2023-08-31 21:39:29,842.numeric_adoption_series.INFO ------------------
+2023-08-31 21:39:29,842.numeric_adoption_series.INFO NumericAdoptionSeries with name=2022 Adoptions, units=individuals, location=Missouri, and 6 data points: [75, 100, 215, 300, 190, 99]
+2023-08-31 21:39:29,842.numeric_adoption_series.INFO Count: 6
+2023-08-31 21:39:29,842.numeric_adoption_series.INFO Sum: 979
+2023-08-31 21:39:29,842.numeric_adoption_series.INFO Mean: 163.16666666666666
+2023-08-31 21:39:29,842.numeric_adoption_series.INFO Median: 145.0
+2023-08-31 21:39:29,842.numeric_adoption_series.INFO ------------------
+2023-08-31 21:39:29,842.numeric_adoption_series.INFO NumericAdoptionSeries with name=2020 Adoptions, units=individuals, location=Missouri, and 25 data points: [100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124]
+2023-08-31 21:39:29,842.numeric_adoption_series.INFO Count: 25
+2023-08-31 21:39:29,842.numeric_adoption_series.INFO Sum: 2800
+2023-08-31 21:39:29,842.numeric_adoption_series.INFO Mean: 112.0
+2023-08-31 21:39:29,842.numeric_adoption_series.INFO Median: 112
+2023-08-31 21:39:29,842.numeric_adoption_series.INFO ------------------
