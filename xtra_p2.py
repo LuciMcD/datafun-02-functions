@@ -46,8 +46,14 @@ logger, logname = setup_logger(__file__)
 # TODO: Log each time the function is called (along with its arguments)
 # TODO: Log the result of each function just before you return the result
 
+def get_sum_two(value1, value2):
+    logger.info("Calling get_sum_two{value1, value2}")
+    sum = value1 + value2 
+    logger.info("Return: {sum}")
+    return sum 
 
 
+get_sum_two(1,2)
 
 # TODO: Fix this function to get just the first 3 letters (possibly reversed)
 def transform_using_keyword_args_with_default_values(input="bearcat", reverse=False):
