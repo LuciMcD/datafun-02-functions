@@ -1,0 +1,21 @@
+2023-08-27 19:07:18,774.module2.INFO ==================================================
+2023-08-27 19:07:18,774.module2.INFO Today is 2023-08-27 at 07:07 PM
+2023-08-27 19:07:18,806.module2.INFO Running on: nt Windows 10
+2023-08-27 19:07:18,806.module2.INFO Python version:  3.11.4
+2023-08-27 19:07:18,806.module2.INFO Python path: C:\Users\lucim\AppData\Local\Programs\Python\Python311
+2023-08-27 19:07:18,806.module2.INFO Working dir: C:\Users\lucim\Data Fundamentals Repo\datafun-02-functions
+2023-08-27 19:07:18,806.module2.INFO ==================================================
+2023-08-27 19:07:18,806.module2.INFO The mean of dataA is: 20
+2023-08-27 19:07:18,806.module2.INFO The median of dataA is: 20.0
+2023-08-27 19:07:18,806.module2.INFO The mode of dataA is: 20
+2023-08-27 19:07:18,806.module2.INFO The mean of dataB is: 20
+2023-08-27 19:07:18,806.module2.INFO The median of dataB is: 20.0
+2023-08-27 19:07:18,806.module2.INFO The mode of dataB is: 20
+2023-08-27 19:07:18,806.module2.INFO The standard deviation for dataA is: 6.847546194724712
+2023-08-27 19:07:18,806.module2.INFO The population standard deviatioin for dataA is:6.496152707564686
+2023-08-27 19:07:18,806.module2.INFO The variance for dataA is: 46.888888888888886
+2023-08-27 19:07:18,806.module2.INFO The population variance for dataA is: 42.2
+2023-08-27 19:07:18,806.module2.INFO The standard deviation for dataB is: 11.185307823708344
+2023-08-27 19:07:18,806.module2.INFO The population standard deviatioin for dataB is:10.611314715905849
+2023-08-27 19:07:18,806.module2.INFO The variance for dataB is: 125.11111111111111
+2023-08-27 19:07:18,806.module2.INFO The population variance for dataB is: 112.6
